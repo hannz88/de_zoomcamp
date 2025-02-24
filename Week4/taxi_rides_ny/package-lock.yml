@@ -3,4 +3,6 @@ packages:
     version: 1.3.0
   - package: dbt-labs/codegen
     version: 0.13.1
-sha1_hash: 9c459bb513316be11ab55af0e5113f17444d082e
+  - package: fivetran/fivetran_utils
+    version: 0.4.10
+sha1_hash: 7e03ca6f7eb5c939709ea5023008b024c14d07d1
