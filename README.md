@@ -7,3 +7,5 @@ This repo contains the homework to DE zoomcamp.
 [dlt homework](dlt/DEZoomcamp_dlt_Homework.ipynb)
 
 [Week5](Week5/code/homework.ipynb)
+
+[Week6](Week6/pyflink/src/homework)
